@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  联动：根目录 Languages 注入原模组常驻的太空无人机 Def。
+  Biotech/Languages 注入原模组 Biotech 目录里 MechanitorShuttle 的译文。名字用官方简体中文的「机械师飞船」。
+  原模组用 IfModActive="Ludeon.Rimworld.Biotech" 决定是否加载那一半；没装生物科技时那些 Def 不存在，译文若仍加载，游戏会报找不到 Def。
+  本文件对 1.6 和 1.7 都列出目录。原模组的 LoadFolders 只写了 v1.6，游戏会回退到上一版本去读它的 Def。
+-->
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="Ludeon.RimWorld.Biotech">Biotech</li>
+  </v1.6>
+  <v1.7>
+    <li>/</li>
+    <li IfModActive="Ludeon.RimWorld.Biotech">Biotech</li>
+  </v1.7>
+</loadFolders>

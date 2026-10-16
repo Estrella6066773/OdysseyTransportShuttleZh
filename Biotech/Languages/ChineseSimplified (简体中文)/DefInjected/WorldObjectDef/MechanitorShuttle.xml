@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: mechanitor ship -->
+  <MechanitorShuttle.label>机械师飞船</MechanitorShuttle.label>
+  <!-- EN: A mechanitor ship in flight. -->
+  <MechanitorShuttle.description>一艘正在飞行中的机械师飞船。</MechanitorShuttle.description>
+
+</LanguageData>

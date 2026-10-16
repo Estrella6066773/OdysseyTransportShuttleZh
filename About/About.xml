@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Odyssey Transport Shuttle 简体中文</name>
+  <author>Estrella6066</author>
+  <packageId>Estrella6066.odysseyTransportShuttle.zh</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>为 Odyssey Transport Shuttle 提供简体中文。
+  
+这个模组允许玩家自己研究建造和驾驶“太空无人机”和“机械师飞船”。
+但相比原版载客穿梭机，只有参数变化。（我另外制作了一个增强版模组，增加了更多功能，且自带汉化）
+
+请把本模组放在 Odyssey Transport Shuttle 后面。
+
+与我的 Odyssey Transport Shuttle 增强版不能同时启用。
+  </description>
+  <incompatibleWith>
+    <li>Estrella6066.odysseyTransportShuttleEnhanced</li>
+  </incompatibleWith>
+  <modDependencies>
+    <li>
+      <packageId>toshtaru.Odyssey.Transport.Shuttle</packageId>
+      <displayName>Odyssey Transport Shuttle</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3525851843</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Ludeon.RimWorld.Odyssey</packageId>
+      <displayName>Odyssey</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>toshtaru.Odyssey.Transport.Shuttle</li>
+    <li>Ludeon.RimWorld.Odyssey</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+  </loadAfter>
+</ModMetaData>

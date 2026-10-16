@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Transport Drone -->
+  <TransportDrones.label>太空无人机</TransportDrones.label>
+  <!-- EN: Drone for longer journeys and reaching orbit. Requires a shuttle engine, which can only be obtained from orbital traders and missions. Compared to a regular Shuttle, it has worse cargo capacity, faster recharge time before departure, and more efficient fuel consumption. -->
+  <TransportDrones.description>太空无人机用于更远的旅程，也能抵达轨道。建造它需要一台穿梭机引擎。穿梭机引擎只能从轨道贸易商处购买，或通过任务取得。和载客穿梭机相比，它能装的货物更少，再次发射前等待的时间更短，消耗的化合燃料也更少。</TransportDrones.description>
+
+</LanguageData>
